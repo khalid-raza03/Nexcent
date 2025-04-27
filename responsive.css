@@ -1,0 +1,373 @@
+@import url(./styles.css);
+
+@media (max-width: 1399px) and (min-width: 1200px) {
+  .nexcent-main-wrapper .header-main-center .navbar-nav {
+    gap: 30px;
+  }
+
+  .swiper-slide .slider-text-content h2 {
+    font-weight: var(--font-weight2);
+    font-size: 55px;
+    line-height: 56px;
+    letter-spacing: 1px;
+  }
+}
+
+@media (max-width: 1199px) and (min-width: 992px) {
+
+  .nexcent-main-wrapper .marketing-cards .content-box {
+    max-width: unset !important;
+    width: auto;
+    padding: 9px 18px;
+  }
+
+  .nexcent-main-wrapper .marketing-cards .content-box p {
+    font-size: 18px;
+  }
+
+  .nexcent-main-wrapper .marketing-section .marketing-cards {
+    max-width: 300px;
+  }
+
+  .swiper-slide .slider-text-content .slider-para {
+    max-width: 400px;
+    text-align: left;
+  }
+  .nexcent-main-wrapper .header-main-center .navbar-nav {
+    gap: 20px;
+  }
+
+  .swiper-slide .slider-text-content h2 {
+    font-weight: var(--font-weight2);
+    font-size: 45px;
+    line-height: 46px;
+    letter-spacing: 1px;
+  }
+
+  .nexcent-main-wrapper .header-main-right {
+    gap: 5px;
+  }
+
+  .nexcent-main-wrapper .header-main-right .btn-filled,
+  .nexcent-main-wrapper .header-main-right .login-btn {
+    padding: 10px 20px;
+  }
+}
+
+@media (max-width: 992px) {
+
+  .nexcent-main-wrapper .brand-features .content-box{
+    width: 80%;
+  }
+  .nexcent-main-wrapper .brand-features .feature-content{
+    align-items: center;
+  }
+
+    .nexcent-main-wrapper .stats-section .stat-content{
+        max-width: 100%;
+      }
+    .nexcent-main-wrapper  .section-head{
+        font-size: var(--font-size2);
+        font-weight: bold;
+        max-width:650px !important;
+    }
+  .nexcent-main-wrapper .section-para {
+    max-width: 620px;
+    text-align: center !important;
+  }
+  .nexcent-main-wrapper .marketing-cards .content-box {
+    max-width: unset !important;
+    width: auto;
+  }
+
+  .nexcent-main-wrapper .marketing-cards .content-box p {
+    max-width: 230px;
+    font-size: 16px;
+  }
+
+  .nexcent-main-wrapper .marketing-cards .content-box a {
+    font-size: 16px;
+  }
+  .nexcent-main-wrapper .brand-features .feature-head {
+    max-width: 400px;
+  }
+  .swiper-slide .slider-text-content {
+    gap: 15px;
+  }
+
+  .nexcent-main-wrapper .nexcent-swiper figure {
+    margin-left: auto;
+  }
+  .nexcent-main-wrapper .nexcent-swiper figure img {
+    width: 250px;
+  }
+  .swiper-slide .slider-text-content h2 {
+    font-weight: var(--font-weight2);
+    font-size: 40px;
+    line-height: 40px;
+    letter-spacing: 1px;
+  }
+
+  .nexcent-main-wrapper .brand-features .feature-content {
+    flex-direction: column;
+  }
+  .nexcent-main-wrapper .stats-section .stat-content-head {
+    font-size: var(--font-h2);
+  }
+  .nexcent-main-wrapper .stats-section .stats-box {
+        gap: 5px;
+        flex-direction: column;
+  }
+
+  .nexcent-main-wrapper .demo h3 {
+    max-width: 700px;
+    font-size: 40px;
+  }
+  .nexcent-main-wrapper .footer {
+    padding: 60px 10px;
+  }
+  .nexcent-main-wrapper .footer .footer-right h5{
+    font-size: 16px;
+}
+
+
+.nexcent-main-wrapper .footer{
+    padding:  60px 0px !important   ;
+}
+}
+
+@media screen and (max-width: 768px) {
+
+  .nexcent-main-wrapper .brand-features .content-box {
+    box-shadow: 0px 3px 6px 0px #88b8e87a;
+    border-radius: 10px;
+    top: 75%;
+  }
+  .swiper-slide .slider-text-content h2 {
+    font-size: var(--font-h4);
+    line-height: 40px;
+    letter-spacing: 1px;
+  }
+
+  .swiper-custom6 {
+    padding: 40px;
+  }
+
+  .nexcent-main-wrapper .section-head {
+    font-size: 30px;
+    max-width: 500px;
+    font-weight: bold;
+}
+
+  .nexcent-main-wrapper .stats-section .stat-content .row {
+    row-gap: 30px;
+  }
+
+  .nexcent-main-wrapper .pixel-grade-section .row {
+    row-gap: 30px;
+  }
+
+  .nexcent-main-wrapper .stats-section .stat-content img {
+    width: 25px;
+  }
+
+  .nexcent-main-wrapper .stats-section .stat-content .box-1 > div {
+    gap: 30px !important;
+  }
+  .pixel-grade-section .image-box {
+    width: 300px;
+  }
+
+  .nexcent-main-wrapper .footer .footer-left {
+    gap: 40px;
+  }
+
+  .nexcent-main-wrapper .marketing-cards .img-box {
+    display: flex;
+    justify-content: center;
+  }
+
+  .nexcent-main-wrapper .marketing-cards .content-box p {
+    font-size: 16px;
+    max-width: 300px;
+    width: 100%;
+  }
+
+  .nexcent-main-wrapper .marketing-cards .img-box {
+    width: 100%;
+    max-width: 430px;
+  }
+  .nexcent-main-wrapper .marketing-section .row {
+    row-gap: 100px;
+  }
+}
+
+@media screen and (max-width: 576px) {
+    .nexcent-main-wrapper .pixel-grade-section .cstmr-list-txt{
+        font-size: 16px;
+    }
+    .nexcent-main-wrapper .marketing-cards .content-box{
+        width: 300px;
+    }
+
+
+    .nexcent-main-wrapper .demo h3{
+        font-size:30px;
+        line-height: 45px; 
+
+     }
+
+    .nexcent-main-wrapper .main-section section{
+        padding-bottom:50px;
+    }
+  .nexcent-main-wrapper .stats-section .stats-box {
+    flex-direction: column;
+    align-items: center;
+  }
+
+
+  .nexcent-main-wrapper .pixel-grade-section .content-para{
+    padding: 10px 0;
+  }
+
+  .nexcent-main-wrapper .section-header {
+    margin-bottom: 10px;
+  }
+
+  .swiper-slide .slider-text-content .slider-para {
+    font-size: 14px;
+  }
+  .nexcent-main-wrapper .btn-filled {
+    padding: 9px 18px;
+  }
+
+  .swiper-slide .slider-text-content .slider-btn,
+  .nexcent-main-wrapper .header-main-right .login-btn,
+  .nexcent-main-wrapper .demo .demo-btn {
+    font-size: 14px;
+  }
+
+  .nexcent-main-wrapper .brand-features .feature-head {
+    font-size: 16px;
+  }
+  .nexcent-main-wrapper .brand-features .feature-para {
+    font-size: 14px;
+  }
+  .nexcent-main-wrapper .section-head {
+    max-width: 400px !important;
+    font-size: 17px;
+    line-height: 30px;
+    text-align: center !important;
+    font-weight: bold;
+  }
+  .nexcent-main-wrapper .section-para {
+    font-size: 13px;
+    max-width: 400px;
+}
+
+  .swiper-custom6 {
+    padding: 20px;
+  }
+
+  .swiper-custom6 .row {
+    row-gap: 30px;
+  }
+
+  .swiper-slide .slider-text-content .black,
+  .swiper-slide .slider-text-content .green {
+    font-size: 22px;
+    text-align: left;
+  }
+
+  .swiper-slide .slider-text-content {
+    gap: 0px;
+  }
+
+ 
+
+  .nexcent-main-wrapper .stats-section .stat-content-head {
+    font-size: 18px;
+  }
+
+  .nexcent-main-wrapper  .clients-img img {
+    width: 26px;
+  }
+
+  .nexcent-main-wrapper .our-clients .clients-content {
+    gap: 15px !important;
+  }
+
+
+  .nexcent-main-wrapper .stats-section .stats-para{
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 376px) {
+
+    .nexcent-main-wrapper .marketing-cards .img-box{
+        max-width: 290px;
+    }
+    .nexcent-main-wrapper .marketing-cards .content-box{
+        width: 260px;
+    }
+
+    .nexcent-main-wrapper .marketing-cards .content-box{
+        padding: 15px 7px;
+    }
+    .nexcent-main-wrapper .stats-section .stats-box {
+        align-items:flex-start;
+      }
+
+      .nexcent-main-wrapper .marketing-cards .content-box p{
+        font-size: 14px;
+      }
+  .nexcent-main-wrapper .section-head {
+    line-height: 26px;
+  }
+ 
+  .nexcent-main-wrapper .pixel-grade-section .content-para{
+    font-size: 12px;
+    text-align: justify !important;
+  }
+  .nexcent-main-wrapper .brand-features .feature-para{
+    font-size: 12px;
+  }
+
+  .nexcent-main-wrapper .stats-section .stat-content .box-1 > div {
+    gap: 10px !important;
+}
+
+.nexcent-main-wrapper .stats-section .stat-content-head {
+  font-size: 16px;
+}
+.nexcent-main-wrapper .stats-section .stats-para{
+  font-size: 12px;
+}
+  .nexcent-main-wrapper .section-para {
+    max-width: 300px;
+  }
+  .swiper-slide .slider-text-content .black,
+  .swiper-slide .slider-text-content .green {
+    font-size: 19px;
+  }
+  .swiper-slide .slider-text-content h2 {
+    line-height: 35px;
+  }
+  .nexcent-main-wrapper .btn-filled {
+    padding: 4px 12px;
+    font-size: 12px !important;
+  }
+  .nexcent-main-wrapper p{
+    font-size: 12px;
+  }
+  .nexcent-main-wrapper .brand-features .feature-head {
+    line-height: 25px;
+  }
+   .nexcent-main-wrapper .footer .footer-right a{
+    font-size: 12px;
+  }
+  .nexcent-main-wrapper .footer .footer-right h5{
+    margin-bottom: 20px;
+  }
+}

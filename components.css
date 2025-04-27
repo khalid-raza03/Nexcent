@@ -1,0 +1,50 @@
+@import url(./styles.css);
+
+
+/* reusable components */
+.nexcent-main-wrapper .main-section section{
+    padding-bottom:100px;
+}
+
+.nexcent-main-wrapper a{
+    cursor: pointer;
+}
+
+.nexcent-main-wrapper .section-header{
+    gap: 10px;
+    margin-bottom:30px;
+}
+.nexcent-main-wrapper  .section-head{
+    font-weight:var(--font-weight3);
+    font-size:var(--font-size1);
+    line-height: 48px;
+    color: #4d4d4d;
+    width: 100%;
+    max-width: 620px;
+    
+}
+.nexcent-main-wrapper .section-para{
+font-weight:var(--font-weight4);
+font-size:var(--font-size3);
+line-height: 24px;
+color: #18191F;
+max-width: 720px;
+}
+
+.nexcent-main-wrapper .btn-filled {
+    background: var(--brand-color);
+    color: var(--secondary-color);
+    padding: 12px 32px;
+    letter-spacing: 0.7px;
+    cursor: pointer;
+    outline: 1px solid transparent;
+    transition: outline 0.5s ease-in;
+    border-radius: 4px;
+  }
+  .nexcent-main-wrapper .btn-filled:hover {
+    background: var(--secondary-color);
+    color: var(--brand-color);
+    outline: 1px solid var(--brand-color);
+  }
+
+

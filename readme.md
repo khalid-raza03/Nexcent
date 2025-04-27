@@ -27,6 +27,6 @@
 1. __Clone the repo:__  
 
    ```bash
-   git clone https://github.com/khalid-raza03/Nexcent
+   git clone https://github.com/khalid-raza03/Nexcent.git
    ```
 2. Open `index.html` in a browser.  

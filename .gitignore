@@ -1,0 +1,5 @@
+# --- IDE/Editor Files ---
+.vscode/          
+.idea/            
+*.suo            
+*.swp            

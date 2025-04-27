@@ -10,10 +10,10 @@
 - Well optimised with google insight techniques
 
 ## Demo  
-👉 [Live Preview](https://khalid-raza03.github.io/edule-landing-page/)  
+👉 [Live Preview](https://khalid-raza03.github.io/Nexcent/)  
 
 ## Screenshots
-![Project Screenshot](./src/images/image.png)
+![Project Screenshot](./images/image.png)
 
 ## Technologies  
 - HTML5 
@@ -27,6 +27,6 @@
 1. __Clone the repo:__  
 
    ```bash
-   git clone https://github.com/your-username/repo.git
+   git clone https://github.com/khalid-raza03/Nexcent
    ```
 2. Open `index.html` in a browser.  
